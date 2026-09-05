@@ -31,6 +31,7 @@ Fix inconsistent formats, remove duplicates, split or merge columns, and reshape
 This happens in the Power Query Editor, where every cleaning step is recorded so it can rerun automatically the next time data refreshes.
 
 <img width="347" height="179" alt="image" src="https://github.com/user-attachments/assets/2cae9cb1-0071-49bc-bf17-2a0a9604f518" />
+
 Link separate tables — sales, products, customers, dates — through shared keys so they behave as one connected dataset instead of isolated spreadsheets.
 
 <img width="403" height="155" alt="image" src="https://github.com/user-attachments/assets/cf9e2ccc-4499-48b5-bcd4-66626336771e" />
