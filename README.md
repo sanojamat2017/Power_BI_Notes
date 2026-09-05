@@ -21,4 +21,5 @@ Includes Desktop, Service and Mobile App for comprehensive data analysis.
 
 # Power BI turns raw, scattered data into decisions.
 
-<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/d9388e41-5fad-45c6-8656-7aa09f567f5f" />
+<img width="236" height="190" alt="image" src="https://github.com/user-attachments/assets/161197a7-1d2b-43d1-90f5-a24336c9b834" />
+
