@@ -107,7 +107,24 @@ The finished report is published to the Power BI Service, where it can refresh o
 1. In Sales it is used to monitor,performances,target,revenue
 2. In HR Analysis addressing Employee Performances.
 3. In Marketing it helps Customers segmentation and behaviors insights where as not only this others domain have also where Power BI is used.
-4. 
+
+
+<img width="1536" height="1024" alt="Power BI and Excel Diff" src="https://github.com/user-attachments/assets/95ab902d-aa53-41fa-82c7-cbf9b0b4105d" />
+
+# Similarities Between Power BI and Excel
+
+1. Clean Data
+2. Analyze Datasee
+3. Create Charts
+4. Power Query
+
+# Power Query in Excel
+
+Open Excel---> Go to Data Tab--->Left Corner Get Data--->Lunch Power Query
+
+Once done you can see that all the transformation steps have been grid out because we do not have query loaded here so here i will load a query
+go to--->New Source--->File--->Excel Worksheet--->select excel dataset
+
 
 
 
