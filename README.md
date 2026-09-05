@@ -44,6 +44,7 @@ Arrange bar charts, maps, KPI cards, and tables onto a report canvas, then assem
 Reports stay interactive: clicking one visual filters the rest, so a viewer can drill from a company-wide total down to one store.
 
 <img width="450" height="182" alt="image" src="https://github.com/user-attachments/assets/c10fff90-1e51-4d57-99b5-1636332dc88d" />
+
 Turn the finished report into something a non-technical audience understands in seconds, and publish it to the Power BI Service for others to view.
 
 
