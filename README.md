@@ -76,6 +76,9 @@ Design interactive charts, dashboards, and reports.
 
 <img width="1108" height="205" alt="image" src="https://github.com/user-attachments/assets/585cdebb-de40-4ab6-b25d-2d780c4856ab" />
 
+<img width="1536" height="1024" alt="PowerBI" src="https://github.com/user-attachments/assets/51711143-4468-41ec-85f0-a23704715503" />
+
+
 Data
 Everything starts with a connection — to a spreadsheet, a database, or a live web source. This step just gets the raw information into Power BI; nothing is fixed or filtered yet.
 
@@ -101,7 +104,10 @@ The finished report is published to the Power BI Service, where it can refresh o
 
 <img width="1238" height="579" alt="image" src="https://github.com/user-attachments/assets/ba8348d8-27b0-41ba-858e-c40cf9df6be2" />
 
-
+1. In Sales it is used to monitor,performances,target,revenue
+2. In HR Analysis addressing Employee Performances.
+3. In Marketing it helps Customers segmentation and behaviors insights where as not only this others domain have also where Power BI is used.
+4. 
 
 
 
