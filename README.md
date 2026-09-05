@@ -21,6 +21,9 @@ Includes Desktop, Service and Mobile App for comprehensive data analysis.
 
 # Power BI turns raw, scattered data into decisions.
 
+<img width="1536" height="1024" alt="PowerBI" src="https://github.com/user-attachments/assets/51711143-4468-41ec-85f0-a23704715503" />
+
+
 <img width="236" height="190" alt="image" src="https://github.com/user-attachments/assets/161197a7-1d2b-43d1-90f5-a24336c9b834" />
 
 Connect to virtually any source — Excel files, SQL databases, SharePoint, web APIs, or cloud services — and pull it into Power BI without manual copy-pasting.
@@ -75,9 +78,6 @@ Build relationships between tables to create a structured data model.
 Design interactive charts, dashboards, and reports.
 
 <img width="1108" height="205" alt="image" src="https://github.com/user-attachments/assets/585cdebb-de40-4ab6-b25d-2d780c4856ab" />
-
-<img width="1536" height="1024" alt="PowerBI" src="https://github.com/user-attachments/assets/51711143-4468-41ec-85f0-a23704715503" />
-
 
 Data
 Everything starts with a connection — to a spreadsheet, a database, or a live web source. This step just gets the raw information into Power BI; nothing is fixed or filtered yet.
