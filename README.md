@@ -15,6 +15,10 @@ Power BI Notes Basic to Advance
 Includes Desktop, Service and Mobile App for comprehensive data analysis.
 
 # Understanding Power BI Components
+
+<img width="1207" height="332" alt="image" src="https://github.com/user-attachments/assets/0d449852-00c2-4177-ab59-3395b8fcca29" />
+
+
 1. Power BI Desktop :- A powerful tool for data analysis tasks.It is a application where we can builds the reports.
 2. Power BI Service :- Accessible platform for collaboration and sharing, it is online service platform used to publish and share 
 3. Power BI Mobile App :- Enables data visualization anytime, anywhere. It is an application which can be view reports on tablets or smart phone.
