@@ -1,8 +1,27 @@
-# Power_BI_Notes
-Power BI Notes Basic to Advance
+# What is Excel?
+1. A spreadsheet tool used to store and organize data
+2. Performs calculations using formulas and functions
+3. Creates tables and charts for basic data analysis
+4. Microsoft Excel is a spreadsheet application developed by Microsoft. It is used to store, organize, calculate, analyze, and visualize data.
+5. Excel as a digital table where we can enter data into rows and columns and then perform calculations and analysis.
+6. Excel is commonly used for:
+  # Business → Data Entry → Calculation → Analysis → Reporting → Dashboard
 
-<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/9a2bde8f-f91d-4add-905c-d81be361c5e9" />
+| Feature       | **Excel**                            | **Power BI**                                            |
+| ------------- | ------------------------------------ | ------------------------------------------------------- |
+| Main purpose  | Calculations, spreadsheets, analysis | Data analysis, dashboards, reporting                    |
+| Data size     | Best for small–medium datasets       | Better for large datasets                               |
+| Calculations  | Excellent formulas and functions     | Powerful DAX calculations                               |
+| Charts        | Good for standard charts             | Strong interactive visualizations                       |
+| Dashboards    | Possible, but mostly manual          | Designed specifically for dashboards                    |
+| Interactivity | Limited                              | High — filters, drill-downs, slicers                    |
+| Data sources  | Files, databases, web, etc.          | Connects to many databases, cloud services, files, APIs |
+| Automation    | Formulas, VBA, Power Query           | Power Query, scheduled refresh, data models             |
+| Sharing       | Easy to share workbook files         | Reports can be published and shared online              |
+| Best for      | Day-to-day calculations and analysis | Business intelligence and management reporting          |
 
+
+  
 # What is Power BI?
 
 1. Power BI is a Business Intelligence and Data Visualization tool from Microsoft.
@@ -10,6 +29,74 @@ Power BI Notes Basic to Advance
 3. Power BI is a powerful tool for transforming data into valueable insights.
 4. It is used to analysis data model and create interactive report and dashboard.
 5. It helps organization to transform raw data into meaningful insights for decision-making
+
+# When to Use Power BI?
+
+Power BI is used when you need to convert large or multiple sources of data into interactive reports and dashboards that help people understand business performance and make data-driven decisions.
+
+# Simple Flow
+
+# Raw Data → Power BI → Clean Data → Model Data → Analyze → Dashboard → Business Decision
+
+Power BI can help you move from:
+
+# Data → Analysis → Visualization → Insight → Business Decision
+
+Management may want to know:
+
+Total orders
+Total revenue
+Average order value
+Top restaurants
+Orders by city
+Orders by payment mode
+Monthly revenue
+Customer trends
+
+Power BI can combine these into an interactive dashboard.
+
+# When NOT to choose Power BI
+
+If you simply need:
+
+Basic calculations
+Simple data entry
+Small personal datasets
+Simple tables
+Quick calculations
+
+Excel Files       MySQL Database       CSV Files
+     ↓                  ↓                   ↓
+     └──────────────────┼───────────────────┘
+                        ↓
+                    Power BI
+                        ↓
+              Data Cleaning
+                        ↓
+                  Data Modeling
+                        ↓
+                  DAX Analysis
+                        ↓
+              Interactive Dashboard
+
+Business Problem
+
+The manager asks:
+
+# "How is our business performing this month?"
+
+The manager wants answers to questions such as:
+
+How much did we sell?
+How much profit did we make?
+Which product sells the most?
+Which city has the highest sales?
+Which month has the highest revenue?
+Which salesperson generated the most sales?
+Are sales increasing or decreasing?
+What are our top 10 products?
+
+We use Power BI when an organization has data that needs to be cleaned, combined, analyzed, visualized, and presented through interactive dashboards and reports for business analysis.
 
 # Key Components
 Includes Desktop, Service and Mobile App for comprehensive data analysis.
