@@ -67,16 +67,16 @@ Quick calculations
 
 Excel Files       MySQL Database       CSV Files
      ↓                  ↓                   ↓
-     └──────────────────┼───────────────────┘\n
-                        ↓\n
-                    Power BI\n
-                        ↓\n
-              Data Cleaning\n
-                        ↓\n
-                  Data Modeling\n
-                        ↓\n
-                  DAX Analysis\n
-                        ↓\n
+     └──────────────────┼───────────────────┘<br>
+                        ↓<br>
+                    Power BI<br>
+                        ↓<br>
+              Data Cleaning<br>
+                        ↓<br>
+                  Data Modeling<br>
+                        ↓<br>
+                  DAX Analysis<br>
+                        ↓<br>
               Interactive Dashboard
 
 Business Problem
