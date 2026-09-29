@@ -40,28 +40,28 @@ Power BI is Microsoft's business analytics suite for connecting to data, modelin
 
 # 6) Key benefits of Power BI
 
-It connects to hundreds of sources, including Excel, MySQL, CSV files and cloud services.
-It is affordable and integrates well with Excel, Teams and Azure.
-Power Query makes cleaning easy, and DAX supports powerful calculations.
-Reports are interactive and can be refreshed on a schedule.
-It includes security features such as row-level security.
+It connects to hundreds of sources, including Excel, MySQL, CSV files and cloud services.<br>
+It is affordable and integrates well with Excel, Teams and Azure.<br>
+Power Query makes cleaning easy, and DAX supports powerful calculations.<br>
+Reports are interactive and can be refreshed on a schedule.<br>
+It includes security features such as row-level security.<br>
 
 # 7) Architecture of Power BI
 
-**Data sources:** files, databases and online services.
-**Power Query (ETL):** clean and transform the data.
-**Data model:** relationships and DAX measures, stored in the in-memory engine.
-**Power BI Desktop:** build the reports.
-**Power BI Service:** publish, share and schedule refreshes (an on-premises gateway connects local data).
+**Data sources:** files, databases and online services.<br>
+**Power Query (ETL):** clean and transform the data.<br>
+**Data model:** relationships and DAX measures, stored in the in-memory engine.<br>
+**Power BI Desktop:** build the reports.<br>
+**Power BI Service:** publish, share and schedule refreshes (an on-premises gateway connects local data).<br>
 Consumption: web, mobile and embedded views.
 
 # 8) Building blocks of Power BI
 
-**Visualizations:** individual charts, maps or tables.
-**Datasets:** the collection of data the visuals are built on.
-**Reports:** one or more pages of visuals built on a dataset.
-**Dashboards:** a single page of pinned visuals for a quick overview.
-**Tiles:** the individual visuals pinned to a dashboard.
+**Visualizations:** individual charts, maps or tables.<br>
+**Datasets:** the collection of data the visuals are built on.<br>
+**Reports:** one or more pages of visuals built on a dataset.<br>
+**Dashboards:** a single page of pinned visuals for a quick overview.<br>
+**Tiles:** the individual visuals pinned to a dashboard.<br>
 
 
   
