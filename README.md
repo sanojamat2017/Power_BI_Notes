@@ -1,4 +1,4 @@
-<img width="1022" height="1010" alt="image" src="https://github.com/user-attachments/assets/3f5fc97c-d755-462a-9cba-c923b3863d07" /># What is Excel?
+# What is Excel?
 1. A spreadsheet tool used to store and organize data
 2. Performs calculations using formulas and functions
 3. Creates tables and charts for basic data analysis
