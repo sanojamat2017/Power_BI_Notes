@@ -7,18 +7,7 @@
 6. Excel is commonly used for:
   # Business → Data Entry → Calculation → Analysis → Reporting → Dashboard
 
-| Feature       | **Excel**                            | **Power BI**                                            |
-| ------------- | ------------------------------------ | ------------------------------------------------------- |
-| Main purpose  | Calculations, spreadsheets, analysis | Data analysis, dashboards, reporting                    |
-| Data size     | Best for small–medium datasets       | Better for large datasets                               |
-| Calculations  | Excellent formulas and functions     | Powerful DAX calculations                               |
-| Charts        | Good for standard charts             | Strong interactive visualizations                       |
-| Dashboards    | Possible, but mostly manual          | Designed specifically for dashboards                    |
-| Interactivity | Limited                              | High — filters, drill-downs, slicers                    |
-| Data sources  | Files, databases, web, etc.          | Connects to many databases, cloud services, files, APIs |
-| Automation    | Formulas, VBA, Power Query           | Power Query, scheduled refresh, data models             |
-| Sharing       | Easy to share workbook files         | Reports can be published and shared online              |
-| Best for      | Day-to-day calculations and analysis | Business intelligence and management reporting          |
+<img width="1536" height="1024" alt="Power BI and Excel Diff" src="https://github.com/user-attachments/assets/95ab902d-aa53-41fa-82c7-cbf9b0b4105d" />
 
 # 1) Introduction to Business Intelligence
 BI is the process of collecting, integrating, analyzing and presenting business data so people can make better decisions. It typically moves from data sources to a data warehouse, then to analysis, then to reports and dashboards.
@@ -232,7 +221,7 @@ The finished report is published to the Power BI Service, where it can refresh o
 3. In Marketing it helps Customers segmentation and behaviors insights where as not only this others domain have also where Power BI is used.
 
 
-<img width="1536" height="1024" alt="Power BI and Excel Diff" src="https://github.com/user-attachments/assets/95ab902d-aa53-41fa-82c7-cbf9b0b4105d" />
+
 
 # Similarities Between Power BI and Excel
 
