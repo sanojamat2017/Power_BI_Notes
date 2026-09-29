@@ -65,7 +65,7 @@ Small personal datasets
 Simple tables
 Quick calculations
 
-<img width="1022" height="1010" alt="image" src="https://github.com/user-attachments/assets/20baac47-bb7b-4ddb-9abe-05badfa8521c" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/20baac47-bb7b-4ddb-9abe-05badfa8521c" />
 
 
 Business Problem
