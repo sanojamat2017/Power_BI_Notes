@@ -65,8 +65,8 @@ Small personal datasets
 Simple tables
 Quick calculations
 
-Excel Files       MySQL Database       CSV Files
-     ↓                  ↓                   ↓
+Excel Files<br>      MySQL Database<br>     CSV Files<br>
+     ↓<br>              ↓<br>               ↓<br>
      └──────────────────┼───────────────────┘<br>
                         ↓<br>
                     Power BI<br>
