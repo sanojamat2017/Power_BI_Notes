@@ -1,4 +1,4 @@
-# What is Excel?
+<img width="1022" height="1010" alt="image" src="https://github.com/user-attachments/assets/3f5fc97c-d755-462a-9cba-c923b3863d07" /># What is Excel?
 1. A spreadsheet tool used to store and organize data
 2. Performs calculations using formulas and functions
 3. Creates tables and charts for basic data analysis
@@ -76,14 +76,14 @@ The manager asks:
 
 The manager wants answers to questions such as:
 
-How much did we sell?
-How much profit did we make?
-Which product sells the most?
-Which city has the highest sales?
-Which month has the highest revenue?
-Which salesperson generated the most sales?
-Are sales increasing or decreasing?
-What are our top 10 products?
+How much did we sell?<br>
+How much profit did we make?<br>
+Which product sells the most?<br>
+Which city has the highest sales?<br>
+Which month has the highest revenue?<br>
+Which salesperson generated the most sales?<br>
+Are sales increasing or decreasing?<br>
+What are our top 10 products?<br>
 
 We use Power BI when an organization has data that needs to be cleaned, combined, analyzed, visualized, and presented through interactive dashboards and reports for business analysis.
 
