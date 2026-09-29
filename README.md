@@ -20,6 +20,49 @@
 | Sharing       | Easy to share workbook files         | Reports can be published and shared online              |
 | Best for      | Day-to-day calculations and analysis | Business intelligence and management reporting          |
 
+# 1) Introduction to Business Intelligence
+BI is the process of collecting, integrating, analyzing and presenting business data so people can make better decisions. It typically moves from data sources to a data warehouse, then to analysis, then to reports and dashboards.
+
+# 2) Self-Service Business Intelligence (SSBI)
+SSBI lets business users such as analysts and managers build their own reports and explore data without waiting on IT. IT still governs the data and security, while users get faster, more flexible insights.
+
+# 3) ETL vs ELT
+
+ETL (Extract, Transform, Load): data is cleaned and reshaped before it is loaded into the target. It suits traditional warehouses and structured data.
+ELT (Extract, Load, Transform): raw data is loaded first and transformed inside the target system. It suits cloud warehouses and big data because it scales well.
+Power BI's Power Query works in an ETL style, cleaning data as it is imported.
+
+# 4) SSBI tools
+Common tools include Power BI, Tableau, Qlik Sense, Looker Studio, Excel with Power Pivot, Domo and Sisense. They share drag-and-drop visuals, connections to many data sources and easy sharing.
+
+# 5) What is Power BI?
+Power BI is Microsoft's business analytics suite for connecting to data, modeling it and turning it into interactive reports and dashboards. It has three main parts: Power BI Desktop (authoring), the Power BI Service (cloud sharing) and the Mobile apps.
+
+# 6) Key benefits of Power BI
+
+It connects to hundreds of sources, including Excel, MySQL, CSV files and cloud services.
+It is affordable and integrates well with Excel, Teams and Azure.
+Power Query makes cleaning easy, and DAX supports powerful calculations.
+Reports are interactive and can be refreshed on a schedule.
+It includes security features such as row-level security.
+
+# 7) Architecture of Power BI
+
+Data sources: files, databases and online services.
+Power Query (ETL): clean and transform the data.
+Data model: relationships and DAX measures, stored in the in-memory engine.
+Power BI Desktop: build the reports.
+Power BI Service: publish, share and schedule refreshes (an on-premises gateway connects local data).
+Consumption: web, mobile and embedded views.
+
+# 8) Building blocks of Power BI
+
+Visualizations: individual charts, maps or tables.
+Datasets: the collection of data the visuals are built on.
+Reports: one or more pages of visuals built on a dataset.
+Dashboards: a single page of pinned visuals for a quick overview.
+Tiles: the individual visuals pinned to a dashboard.
+
 
   
 # What is Power BI?
